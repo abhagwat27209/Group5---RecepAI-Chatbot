@@ -1,0 +1,6 @@
+txtCopy codeFlask==2.3.2
+transformers==4.27.4
+requests==2.31.0
+botbuilder-core==4.14.0
+botbuilder-schema==4.14.0
+botbuilder-dialogs==4.14.0
