@@ -86,3 +86,13 @@ This project utilizes the following Hugging Face models:
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Meet the Team
+
+Aditya Nitin Bhagwat, 
+Charlotte Eva Natalie Uddfors, 
+Ramya Danappa, 
+Shynitha Sudarshan Kotian, 
+Sidhant Bansal
+
+
